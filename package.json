@@ -1,0 +1,17 @@
+{
+  "name": "videoplayer",
+  "version": "1.0.0",
+  "description": "a backend for the videoPlayer application",
+  "keywords": [
+    "javascript",
+    "backend",
+    "water"
+  ],
+  "license": "ISC",
+  "author": "vishal yadav",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
